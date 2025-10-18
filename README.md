@@ -32,7 +32,7 @@ The host manages the game flow while the two players improvise a scene based on 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yes_and.git
+git clone https://github.com/greatczar/yes_and.git
 cd yes_and
 ```
 
@@ -147,7 +147,7 @@ The system prompts have been carefully tuned to prevent this, but if it happens:
 
 ## License
 
-[Add your license here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
