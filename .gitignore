@@ -175,3 +175,5 @@ cython_debug/
 
 .DS_Store
 
+# Project-specific exclusions
+src/yes_andProto.ipynb
