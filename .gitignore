@@ -177,3 +177,5 @@ cython_debug/
 
 # Project-specific exclusions
 src/yes_andProto.ipynb
+src/.gradio/
+about2.md
